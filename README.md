@@ -2,4 +2,4 @@
 
 Ejecutar ```npm install``` para instalar las dependencias
 
-Ejecutar ```npm start``` para ejecutarlo
+Escribir ```npm start``` para ejecutarlo
